@@ -1,6 +1,6 @@
-# CS-370-Current-Emerging-Trends
+# treasurehunt
 
-#CS-370 Current and Emerging Trends project focused on the completion of a Deep Q-Learning algorithm for an AI agent.
+#This project focused on the completion of a Deep Q-Learning algorithm for an AI agent.
 
 # Description
 
